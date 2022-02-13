@@ -8,13 +8,7 @@
     <artifactId>tBotV01</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
-        <dependency>
 
-            <groupId>org.telegram</groupId>
-            <artifactId>telegrambots</artifactId>
-            <version>3.5</version>
-
-        </dependency>
     </dependencies>
 
     <properties>
